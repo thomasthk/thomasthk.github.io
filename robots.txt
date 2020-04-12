@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://thomasthk.netlify.com/sitemap.xml
