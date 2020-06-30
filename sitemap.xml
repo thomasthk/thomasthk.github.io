@@ -3,14 +3,11 @@
 <url> <loc>https://thomasthk.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thomasthk.github.io/🔐-security-checklists-and-tips（中文）</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thomasthk.github.io/🔐-security-checklists-and-tips</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/🧰-my-web-development-toolbox</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thomasthk.github.io/🖋-markdown-guide-for-embedding-code</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thomasthk.github.io/🖋-markdown-guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/travel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/photographs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thomasthk.github.io/tags/markdown</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags/security</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags/toolbox</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
