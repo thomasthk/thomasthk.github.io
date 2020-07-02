@@ -117,6 +117,16 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-bef650b5b7be511fb179.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/jam-stack
+  Link: </webpack-runtime-a567b78746739797ddd4.js>; rel=preload; as=script
+  Link: </framework-3321703c33570853116c.js>; rel=preload; as=script
+  Link: </f0e45107-b42dcfc5aee91d375004.js>; rel=preload; as=script
+  Link: </app-6bfb16ad9b7e684670df.js>; rel=preload; as=script
+  Link: </styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-d71922eaca481c19b906.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-c3b0db261cd49d0c11fd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/jam-stack/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/privacy
   Link: </webpack-runtime-a567b78746739797ddd4.js>; rel=preload; as=script
   Link: </framework-3321703c33570853116c.js>; rel=preload; as=script
@@ -137,7 +147,7 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-c3b0db261cd49d0c11fd.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/security/page-data.json>; rel=preload; as=fetch; crossorigin
-/tags/toolbox
+/tags/static-site
   Link: </webpack-runtime-a567b78746739797ddd4.js>; rel=preload; as=script
   Link: </framework-3321703c33570853116c.js>; rel=preload; as=script
   Link: </f0e45107-b42dcfc5aee91d375004.js>; rel=preload; as=script
@@ -146,7 +156,7 @@
   Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-d71922eaca481c19b906.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-c3b0db261cd49d0c11fd.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tags/toolbox/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/static-site/page-data.json>; rel=preload; as=fetch; crossorigin
 /offline-plugin-app-shell-fallback/
   Link: </webpack-runtime-a567b78746739797ddd4.js>; rel=preload; as=script
   Link: </framework-3321703c33570853116c.js>; rel=preload; as=script
