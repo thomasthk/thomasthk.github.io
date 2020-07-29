@@ -3,7 +3,6 @@
 <url> <loc>https://thomasthk.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thomasthk.github.io/密碼管理的藝術-🎨</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/檢查自己既個人資料係咪已經外洩-have-i-been-pwned</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/點揀一個可信既vpn？</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/資訊-網絡安全指南</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -14,7 +13,6 @@
 <url> <loc>https://thomasthk.github.io/works</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags/have-ibeen-pwned</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags/jam-stack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thomasthk.github.io/tags/password</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags/security</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thomasthk.github.io/tags/static-site</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
