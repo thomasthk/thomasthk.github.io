@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{w2l6:function(t,e,n){"use strict";n.r(e);n("q1tI");var o=n("dH/O"),l=n("noox"),a=n("WsIH"),c=n("gZs9"),d=n("qKvR");e.default=function(){return Object(d.d)(o.a,null,Object(d.d)(a.a,null),Object(d.d)(l.a,null,Object(d.d)("div",{style:{marginTop:"100px"}},Object(d.d)(c.a.h1,null," Click the logo above to back to Homepage."))))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-992b9059d1b445ec43da.js.map
